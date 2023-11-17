@@ -2,4 +2,6 @@ IW WILL CONTAIN RELEVANT INFORMATION FOR THE OVERALL DEVELOPMENT OF THE COURSE A
 
 HOW TO COMPILE THE HEADER AND FILES?
 
-> 
+> https://www.geeksforgeeks.org/compiling-with-g-plus-plus/
+
+The link mentioned above has a lot of valuable information about this subject.

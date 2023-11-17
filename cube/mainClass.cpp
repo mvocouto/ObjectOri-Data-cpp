@@ -3,6 +3,8 @@
 
 int main() {
 
+    // The usage of the namespace is important because the values
+
     uiuc::Cube c;
     c.setLength(2);
     double volume = c.getVolume();
