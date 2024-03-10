@@ -5,3 +5,18 @@ HOW TO COMPILE THE HEADER AND FILES?
 > https://www.geeksforgeeks.org/compiling-with-g-plus-plus/
 
 The link mentioned above has a lot of valuable information about this subject.
+
+More information related to learning cpp can be found also on the following links:
+
+----------------------------------------------------------
+
+http://www.cplusplus.com/
+
+https://en.cppreference.com/w/
+
+http://www.cplusplus.com/doc/tutorial/
+
+https://stackoverflow.com/questions/388242/the-definitive-c-book-guide-and-list
+
+----------------------------------------------------------
+
