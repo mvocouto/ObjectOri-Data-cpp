@@ -7,6 +7,14 @@ using uiuc::Cube;
 using std::cout;
 using std::endl;
 
+/*
+If the memory needs to exist for longer than the lifecycle of the function, we must use heap memory.
+
+> The only way to create heap memoru in C++ is with the "new" operator.
+
+The "new" operator returns a pointer to the memoru storing the data - not an instance of the data itself.
+*/
+
 int main() {
     int *p = new int;
     Cube *c = new Cube;
